@@ -1,0 +1,27 @@
+Tester Library v.3.0
+-----------------------------------
+Tests defined in the class: ExampleConstructors:
+---------------------------
+ExampleConstructors:
+---------------
+new ExampleConstructors:1(
+ this.a = new A:2(
+  this.x = 0)
+ this.aWithThis = 0
+ this.aWithoutThis = 0
+ this.aWithThisXparam = 0
+ this.aWithoutThisXParam = 500
+ this.b = new B:3(
+  this.x = 0)
+ this.bWithThis = 0
+ this.bWithoutThis = 0
+ this.bWithThisXparam = 0
+ this.bWithoutThisXParam = 500
+ this.c = new C:4(
+  this.x = 100)
+ this.cWithThis = 100
+ this.cWithoutThis = 100
+ this.cWithThisXparam = 100
+ this.cWithoutThisXParam = 500)
+---------------
+No test methods found.
